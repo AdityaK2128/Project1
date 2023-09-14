@@ -2,4 +2,4 @@
 <br>
 ToDo List App 
 <br>
-Author - Aditya Kumar
+Author - Aditya Kumar (Individual)
