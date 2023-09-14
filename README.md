@@ -1,1 +1,2 @@
-# Project1 - This is a ToDo List app
+# Project1 - ToDo List App 
+Author - Aditya Kumar
